@@ -48,6 +48,6 @@ Python, Arduino’ya toplam tutar ve ödeme komutlarını gönderir; Arduino ise
 ## Lisans
 Bu proje eğitim amaçlı geliştirilmiştir.
 ## Kurulum
-- Python 3.x yüklü olmalıdır
+- Python 3.9 yüklü olmalıdır
 - Gerekli kütüphaneler: opencv-python, pyzbar, pillow, pyserial
 - Arduino tarafı için LiquidCrystal_I2C kütüphanesi kullanılmaktadır
