@@ -1,0 +1,9 @@
+MARKET FİŞİ
+------------------
+seker x2 = 90.0 TL
+çikolata x1 = 25.0 TL
+SUT x2 = 30.0 TL
+vazo x1 = 85.0 TL
+------------------
+TOPLAM: 230.0 TL
+Tarih: 16.12.2025 22:30:28
